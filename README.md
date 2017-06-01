@@ -6,3 +6,9 @@
 * テスト
 * テスト
 ![](https://wac-cdn.atlassian.com/dam/jcr:9c1d51ef-3f58-460c-91ed-8529a6969d3b/SourceTree_navy.png)
+
+```java
+public static void main(String[] args) {
+  System.out.println("abc");
+}
+```
